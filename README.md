@@ -27,3 +27,5 @@ update. `demo.py` prints the unsafe and repaired outcomes side by side.
 In a real job, I would first agree on the failing input, the expected record,
 and the account boundary. This sample does not claim that the same patch applies
 to an unseen production database or that a broader migration fits six hours.
+
+If you have one reproducible Python/API data error, [describe it before paying](https://payhip.com/b/yUF4Q).
